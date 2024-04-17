@@ -30,8 +30,8 @@ display_banner() {
 
 # Function to display usage instructions
 display_help() {
-    echo -e "${CYAN}Bug Bounty Script By [Your Name]${NC}"
-    echo -e "${YELLOW}Usage: ./bug_bounty_script.sh [OPTIONS]${NC}"
+    echo -e "${CYAN}Bug Bounty Script By Wr8tH[${NC}"
+    echo -e "${YELLOW}Usage: ./script2.sh [OPTIONS]${NC}"
     echo -e "${YELLOW}Options:${NC}"
     echo -e "${BRIGHT_BLUE}  -h, --help\t\t${NC}Display usage instructions"
     echo -e "${BRIGHT_BLUE}  -l, --list\t\t${NC}Specify a file containing target domain(s)"
